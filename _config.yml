@@ -1,7 +1,7 @@
 name: HELLO HUMANS
 favicon: null
-layout_spectrum: 0.8636931569781154
-typography_spectrum: 0.38822586415335536
+layout_spectrum: 0.67063
+typography_spectrum: 0.45383
 title: HELLO HUMANS
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.7380418488755822
+  brandStrength: 0.1875
   lightness: 0.9158828479703516
   saturation: 0.4887227904982865
   rhythmicContrast: 0.6661629802547395

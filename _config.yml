@@ -1,0 +1,28 @@
+name: HELLO HUMANS
+favicon: null
+layout_spectrum: 0.8636931569781154
+typography_spectrum: 0.38822586415335536
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.7380418488755822
+  lightness: 0.9158828479703516
+  saturation: 0.4887227904982865
+  rhythmicContrast: 0.6661629802547395
+purpose: []
